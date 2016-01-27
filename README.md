@@ -1,9 +1,9 @@
 # Mon idée de Simplon.
 
 Simplon c'est à la fois :
-*Une école
-*Une boîte de prod'
-*Une fondation
+- Une école
+- Une boîte de prod'
+- Une fondation
 
 C'est un "organisation" qui propose à des personnes en reconversion ou en échec scolaire de découvrir/seformer et d'être opérationnel à travailler dans le développement d'application Web.
 
